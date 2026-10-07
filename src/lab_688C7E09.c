@@ -3,46 +3,55 @@
 
 int unsiged_char_max()
 {
+    return UCHAR_MAX;
     // TODO: write your code here
 }
 
 int signed_char_min()
 {
+    return SCHAR_MIN;
     // TODO: write your code here
 }
 
 int signed_char_max()
 {
+    return SCHAR_MAX;
     // TODO: write your code here
 }
 
 int unsigned_int_max()
 {
+    return UINT_MAX;
     // TODO: write your code here
 }
 
 int signed_int_min()
 {
+    return INT_MIN;
     // TODO: write your code here
 }
 
 int signed_int_max()
 {
+    return INT_MAX;
     // TODO: write your code here
 }
 
 int unsigned_short_max()
 {
+    return USHRT_MAX;
     // TODO: write your code here
 }
 
 int signed_short_min()
 {
+    return SHRT_MIN;
     // TODO: write your code here
 }
 
 int signed_short_max()
 {
+    return SHRT_MAX;
     // TODO: write your code here
 }
 
